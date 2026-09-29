@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+
+.container div {
+    text-align: left;
+    float:left;
+    width: 23%;
+    margin: 1%;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+
+button i {
+    font-size: 12px;
+    color:white;
+}
+
+i {
+    font-size: 17px;
+    color:dodgerblue;
+}
+
+.border{
+     border-color:dodgerblue ;
+    border-style: solid;
+    border-width: 1 inch;
+    padding:8px;
+   
+}
+
+button {
+    background-color:dodgerblue ;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 13px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color:red;
+    font-size: 14px;
+    text-decoration: line-through;
+}
+
+p{
+    font-size: 13px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
